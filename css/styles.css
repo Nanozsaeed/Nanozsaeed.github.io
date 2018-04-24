@@ -1,0 +1,26 @@
+h1, h2, h3 {
+  color: blue;
+  border: 1px solid red;
+  font-style: oblique;
+}
+img {
+float: right;
+}
+.nest {
+  font-style: italic;
+  color: green;
+  font-style: oblique;
+  font-size: 30px;
+}
+.column {
+ color: white;
+  width: 30%
+  margin: 2px;
+  float: left;
+  font-family: Helvetice;
+  font-size: 20px;
+  font-weight: bolder;
+}
+body {
+  background-color: black;
+}
